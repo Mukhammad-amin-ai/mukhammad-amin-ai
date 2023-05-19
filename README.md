@@ -3,5 +3,5 @@
 <h3 align="center">Front end Developer from Uzbekistan </h3>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mukhammad-amin-ai&theme=dark&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mukhammad-amin-ai&theme=dark&card_width=1000)](https://git.io/streak-stats)
 
