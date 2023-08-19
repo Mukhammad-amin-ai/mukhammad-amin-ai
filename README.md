@@ -62,9 +62,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mukhammad-amin-ai/mukhammad-amin-ai
-/snake.svg" alt="Snake animation" />
 
 ###
