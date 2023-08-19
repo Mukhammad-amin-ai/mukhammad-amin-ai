@@ -67,6 +67,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mukhammad-amin-ai/mukhammad-amin-ai
-/snake.yml" alt="Snake animation" />
+/snake.svg" alt="Snake animation" />
 
 ###
