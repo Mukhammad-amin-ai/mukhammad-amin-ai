@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MyOGFnNXphN2xmM21yNnAxb3c4NHRoNXE2NGd2eThpZ3F6aHJndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 
 <h2 align="left">I code with</h2>
 
