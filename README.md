@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mukhammad-amin-ai/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
