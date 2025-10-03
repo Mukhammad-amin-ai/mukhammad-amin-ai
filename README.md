@@ -59,10 +59,10 @@
   <a href="https://github.com/Mukhammad-amin-ai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a style="color:transparent" href="https://t.me/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
-  <a href="mailto:aminahmadov123@gmail.com">
+  <a style="color:transparent" href="mailto:aminahmadov123@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
