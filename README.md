@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammad-amin-ai&layout=compact&langs_count=6&theme=radical&hide_border=true" width="100%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammad-amin-ai&layout=compact&langs_count=6&theme=radical&hide_border=true" width="100%" height="160" alt="Top languages" />
 </div>
 
 ---
