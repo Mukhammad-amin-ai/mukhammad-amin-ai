@@ -60,7 +60,7 @@
   <a href="https://github.com/Mukhammad-amin-ai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/muhammad_amin_software_engineer" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
   <a  href="mailto:aminahmadov123@gmail.com">
