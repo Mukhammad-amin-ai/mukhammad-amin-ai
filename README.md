@@ -14,7 +14,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mukhammad-amin-ai&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Mukhammad-amin-ai&theme=radical&hide_border=true" height="160" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammad-amin-ai&layout=compact&langs_count=6&theme=radical&hide_border=true" height="160" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammad-amin-ai&layout=compact&langs_count=6&theme=radical&hide_border=true" width="100%" alt="Top languages" />
 </div>
 
 ---
